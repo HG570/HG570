@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu souu Rafael Pinheiro</h1>
+<h1 align="center">Olá 👋, eu sou Rafael Pinheiro</h1>
 <h3 align="center">Designer, Desenvolvedor Front-end e estudante de Desenvolvimento de Software Multiplataforma na Fatec de Cotia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hg570" alt="hg570" /></a> </p>
