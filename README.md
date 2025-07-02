@@ -5,11 +5,11 @@
 
 - 🔭 Eu atualmente estou trabalhando no [Gamix](https://github.com/G4mix)
 
-- 🌱 Atualmente estou aprendendo **React.js**
+- 🌱 Atualmente estou aprendendo **Angular.js**
 
 - 📫 Como entrar em contato comigo **humblegalaxy570@gmail.com**
 
-- 📄 Conheça minhas experiências [https://rpassa.com.br/](https://rpassa.com.br/)
+- 📄 Conheça minhas experiências [https://rpassa.com.br](https://rpassa.com.br) ou [https://rpassaingressos.com](https://rpassaingressos.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
